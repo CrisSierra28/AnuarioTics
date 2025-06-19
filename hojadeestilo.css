@@ -1,0 +1,36 @@
+#sup{
+	background-color: #7F82BB;
+	font-size: 20;
+	font-family: arial;
+	text-align: center;
+}
+
+#titulo{
+	font-size: 36;
+	font-family: arial;
+	text-align: center;
+	color: #16417C;
+}
+#pie{
+	font-size: 20;
+	font-family: arial;
+	text-align: center;
+	background-color: #7F82BB;
+	color: navy;
+}
+body{
+	background-image: url("fondo.jpeg");
+}
+.perfil{
+	width: 200px;
+	height: 300px;
+}
+.lapso{
+	width: 250px;
+	height: 200px;
+}
+
+.logro{
+	width: 250px;
+	height: 200px;
+}
